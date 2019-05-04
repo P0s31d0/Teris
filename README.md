@@ -1,2 +1,2 @@
 # Tetris
-- just a tests (crappy but fun)
+- just a test (crappy but fun)
